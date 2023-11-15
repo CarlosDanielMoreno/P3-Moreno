@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "title": "Camisa de algodón",
+      "description": "Camisa de algodón de alta calidad",
+      "price": 30,
+      "thumbnail": "camisa.jpg",
+      "code": "COT123",
+      "stock": 15
+    },
+    {
+      "id": 2,
+      "title": "Pantalones vaqueros",
+      "description": "Pantalones vaqueros de corte recto",
+      "price": 45,
+      "thumbnail": "pantalones.jpg",
+      "code": "DEN456",
+      "stock": 20
+    },
+    {
+      "id": 3,
+      "title": "Zapatos de cuero",
+      "description": "Zapatos de cuero genuino para hombre",
+      "price": 80,
+      "thumbnail": "zapatos.jpg",
+      "code": "LEA789",
+      "stock": 12
+    },
+    {
+      "id": 4,
+      "title": "Reloj de pulsera",
+      "description": "Reloj analógico resistente al agua",
+      "price": 120,
+      "thumbnail": "reloj.jpg",
+      "code": "TIM001",
+      "stock": 5
+    },
+    {
+      "id": 5,
+      "title": "Bolso de cuero",
+      "description": "Bolso de cuero para mujer con múltiples compartimentos",
+      "price": 100,
+      "thumbnail": "bolso.jpg",
+      "code": "BAG777",
+      "stock": 8
+    },
+    {
+      "id": 6,
+      "title": "Gafas de sol",
+      "description": "Gafas de sol polarizadas con montura de metal",
+      "price": 55,
+      "thumbnail": "gafas.jpg",
+      "code": "SUN888",
+      "stock": 18
+    },
+    {
+      "id": 7,
+      "title": "Sombrero de lana",
+      "description": "Sombrero de lana unisex para invierno",
+      "price": 40,
+      "thumbnail": "sombrero.jpg",
+      "code": "WOO999",
+      "stock": 25
+    },
+    {
+      "id": 8,
+      "title": "Bufanda de cachemira",
+      "description": "Bufanda suave de cachemira en varios colores",
+      "price": 70,
+      "thumbnail": "bufanda.jpg",
+      "code": "CAS567",
+      "stock": 10
+    },
+    {
+      "id": 9,
+      "title": "Chaqueta impermeable",
+      "description": "Chaqueta impermeable con capucha desmontable",
+      "price": 150,
+      "thumbnail": "chaqueta.jpg",
+      "code": "DRY321",
+      "stock": 7
+    },
+    {
+      "id": 10,
+      "title": "Mochila de senderismo",
+      "description": "Mochila de senderismo con capacidad de 40 litros",
+      "price": 90,
+      "thumbnail": "mochila.jpg",
+      "code": "HIK654",
+      "stock": 14
+    }
+  ]
